@@ -3,4 +3,4 @@ function cartSlice() {
     <div>cartSlice</div>
   )
 }
-export default cartSlice
+export default cartSlice   
